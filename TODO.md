@@ -4,7 +4,7 @@
 - ~~google_ga uid in config.yml~~
 - ~~Use _includes for header, footer, google_ga~~
 - ~~News as posts~~
-- ~~Extend config.yml (SiteName, Contact, ...) ~~
+- ~~Extend config.yml (SiteName, Contact, ...)~~
 - ~~Use front matter meta data (title, author, image, ...)~~
 - ~~Extend config.yml (SiteName, Contact, ...)~~
 
@@ -13,7 +13,7 @@
 
 - HTML / CSS3 Validation
 
-- alles entschlaken und Bootstrap 3 einsetzen (Slider)
+- slim everything, use Bootstrap 3 (Slider)
 - Jekyll Bootstrap
 
 - multicolumn layout in markdown, how?
