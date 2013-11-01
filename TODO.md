@@ -1,8 +1,12 @@
 # TODO
 
 - ~~Menü korrigieren~~
-- google_ga uid in config.yml
-- include für header, footer, google_ga
+- ~~google_ga uid in config.yml~~
+- ~~include für header, footer, google_ga~~
+
+- News als Posts, Messetermine (Posttype?)
+
+- config.yml erweitern (SiteName, Contact) etc.
 
 - FELA Logo als SVG
 
@@ -19,7 +23,6 @@
 - CSS als SCSS
 - Print CSS
 - SASS + Compass
-- News als Posts, Messetermine (Posttype?)
 
 - Kontaktformular (wie mailen?, Sinatra?)
 
