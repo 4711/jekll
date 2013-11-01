@@ -1,7 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 
-@import"reset.css";@import"superfish.css";@import"grid.css";@import"forms.css";@import"photo.css";@import"galleryfic.css";@import"kwicks.css";@import"coin-slider.css";@import"skin.css";
+/*@import"reset.css";*/
+@import"superfish.css";
+/*@import"grid.css";*/
+/*@import"forms.css";*/
+/*@import"photo.css";*/
+/*@import"galleryfic.css";*/
+/*@import"kwicks.css";*/
+/*@import"coin-slider.css";*/
+/*@import"skin.css";*/
 
 body{
 	background:url(../images/body.jpg) 50% 0 repeat #fff;
@@ -9,13 +17,15 @@ body{
 	font-size: 14px;
 	color:#737a7f;
 	position:relative;
-	min-width:960px;
+	/*min-width:960px;*/
 	}
 
 html,body{
 	height:100%;
 	line-height: 160%;
 	}
+
+ul li {list-style:none;}
 
 #privacy{line-height:18px;}
 #privacy p{margin:0 0 18px;}

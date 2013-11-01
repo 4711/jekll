@@ -3,11 +3,12 @@ layout: default
 title: Jobs
 ---
 
-<article class="grid_8">
-![jobs](/jobs/job_sm.jpg)
-</article>
+<div class="row">
+<div class="col-md-3">
 
-<article class="grid_15 prefix_1">
+![jobs](/jobs/job_sm.jpg)
+
+</div><div class="col-md-9">
 
 #### Stellenangebote und Karriere
 
@@ -22,4 +23,5 @@ Wir sind immer an talentierten und qualifizierten Mitarbeitern interessiert, die
 - [Leiter Logistik](/jobs/leiter-logistik.html)
 
 <!-- <p>Derzeit sind leider keine Stellen frei. Probieren Sie es doch mit einer Initiativbewerbung!</p> -->
-</article>
+
+</div></div>
