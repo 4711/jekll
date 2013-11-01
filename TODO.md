@@ -1,14 +1,14 @@
 # TODO
 
-- ~~Menü korrigieren~~
+- ~~Fix menu~~
 - ~~google_ga uid in config.yml~~
-- ~~include für header, footer, google_ga~~
-- ~~News als Posts, Messetermine (Posttype?)~~
-- ~~config.yml erweitern (SiteName, Contact) etc.~~
-- ~~FrontMatter Meta Daten ausnützen (title, author etc.)~~
-- ~~config.yml erweitern (SiteName, Contact) etc.~~
+- ~~Use _includes for header, footer, google_ga~~
+- ~~News as posts~~
+- ~~Extend config.yml (SiteName, Contact, ...) ~~
+- ~~Use front matter meta data (title, author, image, ...)~~
+- ~~Extend config.yml (SiteName, Contact, ...)~~
 
-- FELA Logo als SVG
+- Logo as SVG
 
 
 - HTML / CSS3 Validation
@@ -16,15 +16,15 @@
 - alles entschlaken und Bootstrap 3 einsetzen (Slider)
 - Jekyll Bootstrap
 
-- Mehrspaltiges Layout, wie?
+- multicolumn layout in markdown, how?
 
-- CSS als SCSS
+- CSS as SCSS
 - Print CSS
 - SASS + Compass
 
-- Kontaktformular (wie mailen?, Sinatra?)
+- contact form (how to mail?, Sinatra?)
 
-- Portal Link macht keinen Sinn!?
+- Portal link makes no sense!?
 
 - Hosting on Github
 - Prose.io
