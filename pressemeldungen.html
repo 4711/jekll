@@ -7,6 +7,17 @@ title: Pressemeldungen
     <p>&nbsp;</p>
     <h4>News &amp; Presse</h4>
 
+    {% for post in site.posts %}
+    <a class="news_block" href="{{ post.url }}" title="{{ post.title }}">
+        <img src="{{ post.image }}" alt="{{ post.title }}" />
+        <div class="extra-wrap">
+            <strong>{{ post.teaser.title }}</strong>
+            {{ post.teaser.text }}
+            <time>{{ post.department }}: {{ post.teaser.footer }}</time>
+        </div>
+    </a>
+    {% endfor %}
+
     <div class="p3">
         <a class="news_block" href="news/easydrive-dynamische-fahrgastinformation-foschlcd.html" title="ÖPNV Pressemeldung FELA-FOSChLCD">
             <img src="images/news/foschlcd_xs.jpg" alt="ÖPNV Pressemeldung FELA-FOSChLCD" />

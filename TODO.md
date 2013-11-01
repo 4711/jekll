@@ -3,16 +3,14 @@
 - ~~Menü korrigieren~~
 - ~~google_ga uid in config.yml~~
 - ~~include für header, footer, google_ga~~
-
-- News als Posts, Messetermine (Posttype?)
-
-- config.yml erweitern (SiteName, Contact) etc.
+- ~~News als Posts, Messetermine (Posttype?)~~
+- ~~config.yml erweitern (SiteName, Contact) etc.~~
+- ~~FrontMatter Meta Daten ausnützen (title, author etc.)~~
+- ~~config.yml erweitern (SiteName, Contact) etc.~~
 
 - FELA Logo als SVG
 
 
-- config.yml erweitern (SiteName, Contact) etc.
-- FrontMatter Meta Daten ausnützen (title, author etc.)
 - HTML / CSS3 Validation
 
 - alles entschlaken und Bootstrap 3 einsetzen (Slider)
